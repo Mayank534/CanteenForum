@@ -16,6 +16,7 @@ Student search database for searching student.
 
 ## FEATURES OF SITE-
 ### LOGIN PAGE-
+![alt text](https://imgur.com/a/iivKaC8[/img][/url])
  
 
 A user can register using the signup button, there are various methods of login in – such as facebook, twitter, google+. Once logged in the page will be redirected.
