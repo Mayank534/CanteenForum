@@ -16,6 +16,7 @@ Student search database for searching student.
 
 ## FEATURES OF SITE-
 ### LOGIN PAGE-
+
 ![alt text](https://i.imgur.com/9H0Xkdx.jpg[/url])
  
 
@@ -30,17 +31,26 @@ If the student logs in, they can view their current bill.
 The student will enter their iitk email id and then set password for it. It also has a option of remember me wherein the details of students will be saved on their device.
 Once registered the student will be redirected to the login page.
 ### CANTEEN OWNER LOGIN 
+
 ![alt text](https://i.imgur.com/UtpvEua.jpg[/url])
+
 ![alt text](https://i.imgur.com/uQ6KhHs.jpg[/url])
+
  When a canteen owner logs in he will be directed to the page wherein they can select the student by their roll number or name, once selected then they can press on continue, the individual students profile will open up. The data for this will be taken for student search database.
 SQL can be used to store the database.
 
 ### STUDENT PROFILE-
+
 ![alt text](https://i.imgur.com/xxOZZ7Z.jpg[/url])
+
  when a canteen owner selects a student, it will open up his profile, it contains the name, roll number and image of the student. The table consists of amount and the item purchased, it will also show the date product is purchased on.
+ 
  ![alt text](https://i.imgur.com/1IZTRBd.jpg[/url])
+ 
 The owner types in the details and then presses on add .
+
  ![alt text](https://i.imgur.com/Rb79ACR.jpg[/url])
+ 
 It adds the bill of the student.
 
 
